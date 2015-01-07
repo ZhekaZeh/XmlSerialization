@@ -5,3 +5,4 @@
         public const int NumberOfUsers = 10;
     }
 }
+//commentEugeneInConst2
