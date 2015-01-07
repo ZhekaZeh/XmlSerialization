@@ -6,3 +6,4 @@
     }
 }
 //eugConflict2
+//NatConflict2
