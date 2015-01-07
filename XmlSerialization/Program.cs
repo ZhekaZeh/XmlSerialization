@@ -17,3 +17,5 @@ namespace XmlSerialization
         }
     }
 }
+
+//Eugene comment 1
